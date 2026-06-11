@@ -26,6 +26,6 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=20Akita&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  Bhu
-![](https://github-readme-streak-stats.herokuapp.com/?user=20Ankit&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=20Ankita&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Prisha1147&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  Bhu
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prisha1147&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prisha1147&theme=dark&hide_border=false&layout=compact)
